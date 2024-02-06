@@ -1,0 +1,1 @@
+{"name":"Local: linked_list","url":"d:\\CODING RESTART IN 3RD SEM\\DSA\\linked_list.cpp","tests":[{"id":1663162532286,"input":"7\n1 7 8 3 6 9 4\n9\n8 4 8 5 7 2 3 8 3","output":"1 7 8 3 6 9 4 \n8 4 8 5 7 2 3 8 3\n8 5 0 3 5 6 0 7 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODING RESTART IN 3RD SEM\\DSA\\linked_list.cpp","group":"local","local":true}

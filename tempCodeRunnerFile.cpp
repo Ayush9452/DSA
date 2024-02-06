@@ -1,0 +1,4 @@
+if(start == mid)
+        // {
+        //     break;
+        // }
